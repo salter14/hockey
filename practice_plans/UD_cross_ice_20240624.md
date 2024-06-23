@@ -1,11 +1,24 @@
 # June 24, 2024 @ 6:00 - 7:30 PM
 
-Materials:
+## Materials:
 - 3 mini nets
 - 11 cones
 - 1 wood block (pillar)
 - Lots of pucks
 
+## Practice timeline:
+Coaches set up stations while players skate to warm up: 5 minutes
+Divide players into groups for stations: 5 minutes
+5 stations with 15 minutes per station: 75 minutes
+Clean up: 5 minutes
+Total: 90 minutes
+
+## Station assignments:
+Station 1
+Station 2
+Station 3
+Station 4
+Station 5
 
 
 ## Station 1
