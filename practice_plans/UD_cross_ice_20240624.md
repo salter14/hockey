@@ -1,7 +1,7 @@
 # June 24, 2024 @ 6:00 - 7:30 PM
 
 ## Materials:
-- 3 mini nets
+- 3 mini nets (big nets would also work)
 - 11 cones
 - 1 wood block (pillar)
 - Lots of pucks
