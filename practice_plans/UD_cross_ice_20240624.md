@@ -18,8 +18,10 @@
 - Station 1: Lina
 - Station 2: Ryan
 - Station 3: Dean
-- Station 4: Gabriel and Dave
-- Station 5: Joey and Patrick
+- Station 4: Gabriel
+- Station 5: Joey, Patrick, and Dave
+
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240624.png)
 
 
 ## Station 1
