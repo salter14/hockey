@@ -7,11 +7,11 @@
 - Lots of pucks
 
 ## Practice timeline:
-1. Coaches set up stations while players skate to warm up: 5 minutes
-2. Divide players into groups for stations: 5 minutes
-3. 5 stations with 15 minutes per station: 75 minutes
-4. Clean up: 5 minutes
-5. Total: 90 minutes
+- Coaches set up stations while players skate to warm up: 5 minutes
+- Divide players into groups for stations: 5 minutes
+- 5 stations with 15 minutes per station: 75 minutes
+- Clean up: 5 minutes
+- Total: 90 minutes
 
 ## Station assignments:
 - Station 1:
