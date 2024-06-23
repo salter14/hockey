@@ -23,6 +23,7 @@
 
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240624.png)
 
+# Station Details
 
 ## Station 1
 ![/hockey/drill_diagrams/Rush_1v1.png](https://github.com/salter14/hockey/blob/main/drill_diagrams/Rush_1v1.png)
