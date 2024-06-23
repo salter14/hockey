@@ -5,6 +5,7 @@
 - 11 cones
 - 1 wood block (pillar)
 - Lots of pucks
+- 6 bumpers
 
 ## Practice timeline:
 - Coaches set up stations while players skate to warm up: 5 minutes
