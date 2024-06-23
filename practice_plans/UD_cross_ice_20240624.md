@@ -14,27 +14,28 @@
 - Total: 90 minutes
 
 ## Station assignments:
-- Station 1:
-- Station 2:
-- Station 3:
-- Station 4:
-- Station 5:
+- Station 1: Lina
+- Station 2: Ryan
+- Station 3: Dean
+- Station 4: Gabriel
+- Station 5: Joey and Patrick
 
 
 ## Station 1
 ![/hockey/drill_diagrams/Rush_1v1.png](https://github.com/salter14/hockey/blob/main/drill_diagrams/Rush_1v1.png)
 
 ## Station 2
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Weave_shoot_curl_and_shoot_again.png)
+
+## Station 3
 ### Puck race with stops
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Puck_race_1v1_with_stops.png)
 
 Players race to the top cone and stop, down to the lower cone and stop, then skate back up and around the top cone and race for a puck in the middle. Players should focus on making a full stop and exploding the other direction. Don't let players cheat by making sharp turns. Players should stop facing the middle at each cone.
 
-## Station 3
-![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Weave_shoot_curl_and_shoot_again.png)
-
 ## Station 4
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Pass_to_the_pillar.png)
 
 ## Station 5
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Passing_and_shooting_technique.png)
 
