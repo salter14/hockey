@@ -10,6 +10,7 @@ June 24, 2024 @ 6:00 - 7:30 PM
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Puck_race_1v1_with_stops.png)
 
 ## Station 3
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Weave_shoot_curl_and_shoot_again.png)
 
 ## Station 4
 
