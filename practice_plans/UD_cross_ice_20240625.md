@@ -21,7 +21,7 @@
 - Station 4/5: Gabriel and Chris
 
 
-![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240624.png)
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240625.png)
 
 # Station Details
 
