@@ -15,10 +15,10 @@
 - Total: 75 minutes
 
 ## Station assignments:
-- Station 1: Lina
-- Station 2: Ryan
-- Station 3: Dean
-- Station 4/5: Gabriel and Chris
+- Station 1: Dean
+- Station 2: Gabriel
+- Station 3: Ryan
+- Station 4/5: Lina and Chris
 
 
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240625.png)
