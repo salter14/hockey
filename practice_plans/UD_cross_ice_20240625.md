@@ -8,7 +8,7 @@
 
 ## Practice timeline:
 - Players skate to warm up: 5 minutes
-- Skating drills: 15 minutes
+- Skating drills (Chris): 15 minutes
 - Coaches set up stations while players get water and are divided: 5 minutes
 - 5 stations with 9 minutes per station: 45 minutes
 - Clean up: 5 minutes
