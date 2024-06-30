@@ -37,7 +37,7 @@ Gates of Buffalo
 - Each pass through a cone is worth a point. Keep score and encourage the players to beat their prior score.
 - Play rounds of 60 to 90 seconds.
 - The goal of the drill is to have the players move when they don't have the puck to be a passing option through a pair of cones.
-- FUll details: https://www.icehockeysystems.com/hockey-drills/gates-buffalo-small-area-game
+- Full details: https://www.icehockeysystems.com/hockey-drills/gates-buffalo-small-area-game
 
 ## Station 3
 Forward, Backward, Forward Race to Puck
