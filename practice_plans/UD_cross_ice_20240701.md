@@ -2,27 +2,26 @@
 # July 1, 2024 @ 6:00 - 7:15 PM
 
 ## Materials:
-- 4 nets (2 mini nets for the scrimage and 2 big or mini nets for the drills)
-- 11 cones
-- Lots of pucks
-- 6 bumpers
+- 2 nets (mini nets would be best) 
+- cones
+- lots of pucks
 
 ## Practice timeline:
 - Players skate to warm up: 5 minutes
-- Skating drills (Chris): ?? minutes
+- Skating drills (Chris): 15 minutes
 - Coaches set up stations while players get water and are divided: 5 minutes
-- ?? stations with ?? minutes per station: 45 minutes
+- 5 stations with 9 minutes per station: 45 minutes
 - Clean up: 5 minutes
 - Total: 75 minutes
 
 ## Station assignments:
 - Station 1: Dave
-- Station 2: 
-- Station 3: 
-- Station 4:
+- Station 2: Dean/Lina
+- Station 3: Gabe
+- Station 4/5: Chris
 
 
-![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240625.png)
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240701.png)
 
 # Station Details
 
@@ -48,7 +47,8 @@ Forward, Backward, Forward Race to Puck
 3. Players will skate forward to the far cone.
 4. Coach pushes puck in.  Players races to puck and shoot.
 
-
+## Station 4/5
+Skating drills (two groups at a time)
 
 
 
