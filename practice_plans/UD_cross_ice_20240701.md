@@ -50,6 +50,19 @@ Forward, Backward, Forward Race to Puck
 ## Station 4/5
 Skating drills (two groups at a time)
 
+- tight turns (two foot, inside foot in front)
+- stops
+- transition to backward
+- transition to forward
+  
+
+Full ice:
+- Two strides and crouch to touch the ice, repeat all the way down the ice
+- c-cuts right
+- c-cuts left
+- swizzels (parallel feet carving)
+- glide on one leg, carve back and forth if you can
+- cross overs (just step across, not a turn)
 
 
 
