@@ -14,13 +14,14 @@
 - Total: 75 minutes
 
 ## Station assignments:
-- Station 1: 
-- Station 2: 
-- Station 3: 
-- Station 4/5: 
+- Station 1: Dave
+- Station 2: Dean
+- Station 3: Ryan
+- Station 4: Patrick
+- Station 5: Chris
 
 
-![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240701.png)
+![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240708.png)
 
 # Station Details
 
@@ -31,29 +32,39 @@ Corner battle progression
 - Phase 3: Coach dumps the puck in the corner, two players battle for possesion and the winner takes the puck to the net for a shot.
 
 ## Station 2
-Gates of Buffalo
-- Players pass to each other through pairs of cones. Players must not pass through the same pair of cones twice in a row.
-- Each pass through a cone is worth a point. Keep score and encourage the players to beat their prior score.
-- Play rounds of 60 to 90 seconds.
-- The goal of the drill is to have the players move when they don't have the puck to be a passing option through a pair of cones.
-- Full details: https://www.icehockeysystems.com/hockey-drills/gates-buffalo-small-area-game
+Angling 1 on 1
+1. Players start in two lines: one as defense and one as offense. Players should switch lines after each turn.
+1. The forward skates with a puck to the board-side of the pad/cones and then down the boards to attack the net.
+1. The defense skates to the inside of the pad/cones and works to time his approach to the forward and angle the forward to the boards to prevent his path to the net.
+1. The defense cannot body check the player, but can use the body and stick to separate the puck from the forward.
+1. If defense strips the puck from the forward, they should pass it back to the coach near the lines.  
+
 
 ## Station 3
-Forward, Backward, Forward Race to Puck
+Tight Turns
 
-1. On whistle, players will skate forward to the far cone.  Players will transition to backwards around cone.
-2. Players will skate backward to the near cone.  Players will transition to forward around cone.
-3. Players will skate forward to the far cone.
-4. Coach pushes puck in.  Players races to puck and shoot.
+1. The player start without a puck and skate a tight loop around the first pad and then the second pad. The turning direction should be different for each pad to work turns in both directions.
+1. After the pads, the player goes past the cone and pick up a puck.
+1. The player weaves around the remaining cones with tight turns and then shoots on net.
 
-## Station 4/5
-Skating drills (two groups at a time)
 
-- tight turns (two foot, inside foot in front)
-- stops
-- transition to backward
-- transition to forward
-  
+## Station 4
+Puck Possesion Game
+1. Game is played with fewer pucks than players (e.g. 6 players and 4 pucks).
+2. Players are confined to the game area and seek to get and keep a puck from the other players.
+3. Coach starts a round and players battle for pucks and take them from other players.
+4. Rounds last 30-60 seconds (adjust as needed for skill/ability).
+5. At the end of the round, any player with out a puck is out, and the next round starts with fewer players and pucks.
+6. The player with the puck in the last round is the winner.
+7. All players rejoin the game and it starts again.
+
+
+## Station 5
+Passing Keep Away
+1. Players position spread out around the circle.
+2. The coach (or player, depending on skil/ability) attemps to intercept a pass or get to the player with the puck before they pass it.
+3. Players should focus on moving the puck quickly and making flat, smooth passes to another player's stick.
+
 
 Full ice:
 - Two strides and crouch to touch the ice, repeat all the way down the ice
@@ -62,6 +73,7 @@ Full ice:
 - swizzels (parallel feet carving)
 - glide on one leg, carve back and forth if you can
 - cross overs (just step across, not a turn)
+- backwards
 
 
 
