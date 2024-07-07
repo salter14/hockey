@@ -2,7 +2,9 @@
 # July 8, 2024 @ 6:00 - 7:15 PM
 
 ## Materials:
-- 
+- 10 bumpers (or 9 and cones for station 2)
+- 3 nets
+- cones
 - lots of pucks
 
 ## Practice timeline:
@@ -17,7 +19,7 @@
 - Station 1: Dave
 - Station 2: Dean
 - Station 3: Ryan
-- Station 4: Patrick
+- Station 4: Joey
 - Station 5: Chris
 
 
