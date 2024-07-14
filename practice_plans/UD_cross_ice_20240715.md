@@ -17,7 +17,7 @@
 
 ## Station assignments:
 - Station 1: Dean
-- Station 2: Gabe
+- Station 2: Gabe/Chris
 - Station 3: Dean
 - Station 4: Gabe/Chris
 
