@@ -3,7 +3,7 @@
 
 ## Materials:
 - bumpers
-- 3 nets
+- 2 nets (prefer small ones)
 - cones
 - pucks
 
