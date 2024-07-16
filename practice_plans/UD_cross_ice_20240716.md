@@ -1,5 +1,5 @@
 
-# July 15, 2024 @ 6:00 - 6:45 PM
+# July 16, 2024 @ 6:00 - 7:00 PM
 
 ## Materials:
 - bumpers
