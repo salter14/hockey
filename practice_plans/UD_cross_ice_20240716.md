@@ -45,7 +45,7 @@ Puck control, shoot, pass, shoot
 
 
 ## Station 3
-Small area scrimmage
+Small area scrimmage - change for 7/16 - nets back to back in the middle
 1. 3v3 or 4v4 scrimmage
 1. Depending on ability, modify the rules to keep one offensive player behind the other team's net and require a pass to that player before a shot (the "Greztky" game)
 1. Coaches can "play goalie" 
