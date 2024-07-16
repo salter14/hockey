@@ -16,10 +16,10 @@
 - Total: 45 minutes
 
 ## Station assignments:
-- Station 1: Dean
+- Station 1: Dean/Jeff
 - Station 2: Gabe/Chris
-- Station 3: Dean
-- Station 4: Gabe/Chris
+- Station 3: Chris/Jeff
+- Station 4: Gabe/Dean
 
 
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240715_part_1.png)
@@ -55,7 +55,5 @@ Skating
 Race for the puck
 1. Players race around the cones in a Z pattern and then battle for the puck and a shot.
 1. Players need to keep their heads up going through the middle intersection.
-
-
 
 
