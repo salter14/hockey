@@ -8,12 +8,12 @@
 - pucks
 
 ## Practice timeline:
-- Players skate to warm up while coaches set up stations 1 and 2: 3 minutes
-- 2 stations with 9 minutes per station: 18 minutes
-- Convert to stations 3 and 4: 3 minutes
-- 2 stations with 9 minutes per station: 18 minutes
-- Clean up: 3 minutes
-- Total: 45 minutes
+- Players skate to warm up while coaches set up stations 1 and 2: 5 minutes
+- 2 stations with 12 minutes per station: 24 minutes
+- Convert to stations 3 and 4 while players get water: 5 minutes
+- 2 stations with 9 minutes per station: 24 minutes
+- Clean up: 2 minutes
+- Total: 60 minutes
 
 ## Station assignments:
 - Station 1: Dean/Jeff
