@@ -21,6 +21,7 @@
 - Station 3: Ryan
 - Station 4: Patrick
 - Station 5: Dave, Lina
+- Goalies: Chris
 
 
 ![image](https://github.com/salter14/hockey/blob/main/drill_diagrams/Practice_layout_20240729.png)
