@@ -18,7 +18,7 @@
 ## Station assignments:
 - Station 1: Gabe
 - Station 2: Dean
-- Station 3: Ryan
+- Station 3: Ryan K.
 - Station 4: Patrick
 - Station 5: Dave, Lina
 - Goalies: Chris
