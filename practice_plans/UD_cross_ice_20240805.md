@@ -1,5 +1,5 @@
 
-# August 5 29, 2024 @ 6:00 - 7:15 PM
+# August 5, 2024 @ 6:00 - 7:15 PM
 
 ## Materials:
 - bumpers
