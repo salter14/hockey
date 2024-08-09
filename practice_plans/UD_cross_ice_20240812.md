@@ -3,12 +3,17 @@
 
 ## Materials:
 - pucks
+- cones
+- 3 half size nets
+- 1 mini net
 
 ## Practice timeline:
-- Players skate to warm up: 
-- Coaches set up stations while players get water and are divided: 
-- Clean up: 
-- Total: 
+- Coaches set up stations (ideally prior to 6pm start)
+- Divide players: 3 minutes
+- 5 stations: 9 minutes each - total 45 minutes
+- Clean up and set up boards: 15 minutes
+- Games: 25 minute periods (2) - 50 minutes
+- Clean up boards: 7 minutes
 
 ## Station assignments:
 - Station 1: 
