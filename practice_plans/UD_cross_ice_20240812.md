@@ -11,7 +11,7 @@
 - Coaches set up stations (ideally prior to 6pm start)
 - Divide players: 3 minutes
 - 5 stations: 9 minutes each - total 45 minutes
-- Clean up and set up boards: 15 minutes
+- Clean up and set up boards: 15 minutes (players eat during this time)
 - Games: 25 minute periods (2) - 50 minutes
 - Clean up boards: 7 minutes
 
@@ -31,7 +31,7 @@
 Fastest skater
 1. Two players skate at a time (one group of 3 if there is an odd number). First to the finish wins.
 2. Races continue until the group produces a winner.
-3. Winners from each group will return at the end of the skill time to compete against each other.
+3. Winners from each group will return at the end of the skills time to compete against each other for an overall winner.
 Winning criteria: First to cross the finish line (far blue line)
 
 ## Station 2
